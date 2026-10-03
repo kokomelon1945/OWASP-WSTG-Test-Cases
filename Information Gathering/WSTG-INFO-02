@@ -1,1 +1,2 @@
 
+| **WSTG-INFO-02** | Fingerprint Web Server | Periksa header HTTP (`Server`) atau gunakan `nmap` untuk mengidentifikasi jenis dan versi web server
