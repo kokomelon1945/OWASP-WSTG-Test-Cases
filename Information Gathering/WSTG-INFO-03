@@ -1,0 +1,1 @@
+| **WSTG-INFO-03** | Review Webserver Metafiles for Information Leakage | Akses file publik seperti `/robots.txt`, `/sitemap.xml`, dan `/.well-known/` untuk mencari direktori tersembunyi. |
